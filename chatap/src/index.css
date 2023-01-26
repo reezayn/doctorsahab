@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* The code above is CSS for tailwind CSS */
+
+.scrollarea{
+  min-height: 200px;
+}
